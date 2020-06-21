@@ -9,7 +9,7 @@ function isValid(arr) {
   return 'valid'
 }
 
-isValid([3, 5, 8, 13, 22, 35])
+isValid([3, 5, 8, 13, 22, 35]);
 ```
 
 ## 執行流程
